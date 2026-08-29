@@ -1,0 +1,6 @@
+yt-dlp>=2024.01.01
+requests>=2.31.0
+colorama>=0.4.6
+rich>=13.7.0
+progress>=1.6
+halo>=0.0.31
